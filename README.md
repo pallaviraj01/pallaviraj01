@@ -1,7 +1,8 @@
 # 👋 Hi there  
 ### I'm Pallavi Raj, a passionate app developer.
-
-- I’m currently working on flutter projects.
+- 🔭 I'm a self-driven developer with a strong passion for crafting beautiful and functional mobile apps using Flutter.  
+- 🌱 Constantly learning new tools and trends in the app development world.  
+- 🎯 My goal is to build meaningful apps that create a positive impact.
  
 ### 🚀 Tools & Skills
 <p align="left">
@@ -16,7 +17,9 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+### 🌟 Featured Projects
 
+- 🔔 [**MyFocusTime**](https://github.com/pallaviraj01/MyFocusTime) – A beautiful and minimal focus timer app built with Flutter and Riverpod.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=pallaviraj01&theme=dark&hide_border=true)](https://git.io/streak-stats)   
 ---
