@@ -1,6 +1,7 @@
-## Hi there 👋 I am Pallavi Raj. 
+# 👋 Hi there  
+### I'm Pallavi Raj, a passionate app developer.
 
-- 🔭 I’m currently working on flutter projects.
+- I’m currently working on flutter projects.
  
 ### 🚀 Tools & Skills
 <p align="left">
