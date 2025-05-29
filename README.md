@@ -20,14 +20,16 @@
 ### 🌟 Featured Projects
 
 - 🔔 [**MyFocusTime**](https://github.com/pallaviraj01/MyFocusTime) – A beautiful and minimal focus timer app built with Flutter and Riverpod.
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pallaviraj01&theme=dark&hide_border=true)](https://git.io/streak-stats)   
 ---
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pallaviraj01&show_icons=true&theme=radical)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pallaviraj01&show_icons=true&theme=radical" width="48%"/> 
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallaviraj01&layout=compact&theme=radical" width="43%"/>
+</p>
+
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallaviraj01&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
----
-<img src="https://komarev.com/ghpvc/?username=pallaviraj01&style=for-the-badge&color=blue" alt="Visitor Count" height="30">
 ---
 
 ### 📬 Connect with Me
