@@ -12,10 +12,7 @@ I am Pallavi Raj.
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-### 📌 Featured Projects
 
-- 🔥 [MyFocusTime ⏳](https://github.com/pallaviraj/myfocustime) — A beautiful focus timer app built with Flutter.
----
 [![GitHub Streak](https://streak-stats.demolab.com?user=pallaviraj01&theme=dark&hide_border=true)](https://git.io/streak-stats)   
 ---
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pallaviraj01&show_icons=true&theme=radical)
