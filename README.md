@@ -1,5 +1,4 @@
-## Hi there 👋
-I am Pallavi Raj. 
+## Hi there 👋 I am Pallavi Raj. 
 
 - 🔭 I’m currently working on flutter projects.
  
