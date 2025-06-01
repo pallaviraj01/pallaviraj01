@@ -28,6 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallaviraj01&layout=compact&theme=radical" width="43%"/>
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=pallaviraj01&theme=dark&hide_border=true)](https://git.io/streak-stats) 
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallaviraj01&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 ---
