@@ -17,18 +17,20 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </p>
 
+
 ### 🌟 Featured Projects
 
 - 🔔 [**MyFocusTime**](https://github.com/pallaviraj01/MyFocusTime) – A beautiful and minimal focus timer app built with Flutter and Riverpod.
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallaviraj01&show_icons=true&theme=radical" width="48%"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=pallaviraj01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%"/> 
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallaviraj01&layout=compact&theme=radical" width="43%"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pallaviraj01&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pallaviraj01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ---
 [![trophy](https://github-profile-trophy.vercel.app/?username=pallaviraj01&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 ---
