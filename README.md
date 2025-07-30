@@ -19,7 +19,7 @@
 
 
 ### 🌟 Featured Projects
-
+- ☘️ [**GreenLife: Sustainable Living Tracker**](https://github.com/pallaviraj01/Sustainable-Living-Tracker) - App built with flutter for making sustainable living easy and fun.
 - 🔔 [**MyFocusTime**](https://github.com/pallaviraj01/MyFocusTime) – A beautiful and minimal focus timer app built with Flutter and Riverpod.
 ---
 
