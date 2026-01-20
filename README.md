@@ -24,15 +24,9 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallaviraj01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%"/> 
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallaviraj01&layout=compact&theme=radical" width="43%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallaviraj01&layout=compact&theme=radical" width="40%"/>
 </p>
 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pallaviraj01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
----
-[![trophy](https://github-profile-trophy.vercel.app/?username=pallaviraj01&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 ---
 
 ### 📬 Connect with Me
